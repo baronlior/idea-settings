@@ -1,0 +1,2 @@
+# idea-settings
+shared setting
